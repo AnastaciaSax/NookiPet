@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimaryStatic">#4CC9A0</color>
+
+    <!-- Light theme -->
+    <color name="app_background">#F8FCFC</color>
+    <color name="app_background_alt">#EFF6F6</color>
+    <color name="text_primary">#14212B</color>
+    <color name="text_secondary">#4A5A66</color>
+    <color name="text_hint">#8592A0</color>
+
+    <color name="card_background">#EBFFFFFF</color>            <!-- 92% white, glass-like -->
+    <color name="card_border">#0F14212B</color>                <!-- very subtle outline -->
+    <color name="divider">#0F14212B</color>
+
+    <!-- Bottom nav + toolbar -->
+    <color name="bottom_nav_bg">#F2FFFFFF</color>
+    <color name="bottom_nav_inactive">#8592A0</color>
+</resources>

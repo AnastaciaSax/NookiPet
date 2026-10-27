@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Lab7" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryStatic</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+
+    <style name="Theme.Lab7" parent="Base.Theme.Lab7" />
+
+    <!-- Popup menu (overflow) — white background, dark text -->
+    <style name="PopupMenuTheme" parent="ThemeOverlay.Material3.Light">
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="colorOnSurface">@android:color/black</item>
+        <item name="colorSurface">@android:color/white</item>
+    </style>
+
+    <!-- Reusable styles for our components -->
+
+    <!-- Glass card: rounded, semi-transparent, subtle elevation -->
+    <style name="Widget.NookiPet.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">18dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="strokeColor">@color/card_border</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <!-- Section header above cards -->
+    <style name="TextAppearance.NookiPet.SectionTitle" parent="TextAppearance.Material3.TitleSmall">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+</resources>
