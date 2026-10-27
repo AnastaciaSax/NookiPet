@@ -1,0 +1,42 @@
+[
+  {"id": 1, "species": "Snail",  "category": "Feeding", "title": "Safe vegetables",       "body": "Cucumber, zucchini, lettuce, pumpkin, carrot, sweet potato. Wash thoroughly and remove leftovers after 24h to prevent mold."},
+  {"id": 2, "species": "Snail",  "category": "Feeding", "title": "Fruit in moderation",   "body": "Apple, pear, banana, melon. Give 2–3 times a week — too much sugar causes obesity and shortens lifespan."},
+  {"id": 3, "species": "Snail",  "category": "Feeding", "title": "Calcium is critical",   "body": "Offer cuttlebone or powdered eggshell at all times. Without calcium the shell becomes thin, cracks, and the snail stops growing."},
+  {"id": 4, "species": "Snail",  "category": "Safety",  "title": "Never feed",            "body": "Citrus fruits, onion, garlic, salty or spicy food, pasta, bread. These are toxic and can kill the snail within hours."},
+  {"id": 5, "species": "Snail",  "category": "Habitat", "title": "Humidity 70–90%",       "body": "Mist the terrarium twice a day with room-temperature water. Low humidity triggers hibernation."},
+  {"id": 6, "species": "Snail",  "category": "Habitat", "title": "Temperature 22–28°C",   "body": "Room temperature is fine. Avoid direct sunlight — above 30°C the snail can dry out and die."},
+  {"id": 7, "species": "Snail",  "category": "Habitat", "title": "Substrate 5–7 cm",      "body": "Coconut coir is ideal. Change once a month, spot-clean weekly. Never use sand — it damages the shell."},
+  {"id": 8, "species": "Snail",  "category": "Health",  "title": "Shell cracks",          "body": "Small cracks heal with enough calcium. Large breaks need isolation with high humidity until the shell hardens."},
+
+  {"id": 9,  "species": "Cat",    "category": "Feeding", "title": "Taurine is essential",  "body": "Cats cannot synthesize taurine — it must come from meat. Deficiency leads to blindness and heart disease."},
+  {"id": 10, "species": "Cat",    "category": "Feeding", "title": "Never feed",            "body": "Onion, garlic, chocolate, grapes, raisins, avocado, alcohol, raw yeast dough. Some are fatal even in tiny amounts."},
+  {"id": 11, "species": "Cat",    "category": "Feeding", "title": "Water matters",         "body": "Cats drink little by nature. Wet food or a running fountain reduces the risk of kidney disease."},
+  {"id": 12, "species": "Cat",    "category": "Health",  "title": "Annual vaccination",    "body": "FVRCP + rabies every 1–3 years depending on lifestyle. Even indoor cats need core vaccines."},
+  {"id": 13, "species": "Cat",    "category": "Safety",  "title": "Toxic houseplants",     "body": "Lilies, dieffenbachia, philodendron, poinsettia. A few lily petals can cause acute kidney failure."},
+  {"id": 14, "species": "Cat",    "category": "Safety",  "title": "Window safety",         "body": "Install screens on all windows. Falls from the 3rd floor+ cause high-rise syndrome — fractures, internal injuries."},
+
+  {"id": 15, "species": "Dog",    "category": "Feeding", "title": "Portion by weight",     "body": "Adult dogs need 20–30 g of dry food per kg of body weight per day, split into 2 meals. Puppies eat 3–4 times a day."},
+  {"id": 16, "species": "Dog",    "category": "Feeding", "title": "Never feed",            "body": "Chocolate, grapes, raisins, xylitol, onion, garlic, macadamia nuts. Xylitol is fatal at 0.1 g per kg."},
+  {"id": 17, "species": "Dog",    "category": "Health",  "title": "Deworming schedule",    "body": "Every 3–6 months even for indoor dogs. Monthly flea/tick prevention in warm seasons."},
+  {"id": 18, "species": "Dog",    "category": "Health",  "title": "Watch for warning signs","body": "Excessive drinking, sudden weight loss, limping, coughing at night. Any of these needs a vet visit within 48 hours."},
+  {"id": 19, "species": "Dog",    "category": "Safety",  "title": "Never leave in a car",  "body": "In +25°C heat the interior reaches +50°C in 10 minutes. Heatstroke kills within 20 minutes."},
+  {"id": 20, "species": "Dog",    "category": "Safety",  "title": "Microchip and tag",     "body": "Legally required in many countries. Increases return rate after escape from 20% to over 90%."},
+
+  {"id": 21, "species": "Reptile","category": "Habitat", "title": "UVB lamp is not optional","body": "Most reptiles need UVB 10–12 h/day to synthesize vitamin D3. Replace the bulb every 6 months — UVB fades."},
+  {"id": 22, "species": "Reptile","category": "Habitat", "title": "Temperature gradient",  "body": "Provide a warm basking spot (30–38°C) and a cooler side (22–25°C). Reptiles regulate body heat by moving between zones."},
+  {"id": 23, "species": "Reptile","category": "Feeding", "title": "Calcium + D3",          "body": "Dust feeder insects with calcium powder 2–3 times a week. For juveniles — every feeding."},
+  {"id": 24, "species": "Reptile","category": "Health",  "title": "Metabolic Bone Disease","body": "Signs: soft jaw, curved spine, tremors. Caused by calcium/UVB deficiency. Reversible only in early stages."},
+  {"id": 25, "species": "Reptile","category": "Safety",  "title": "Wash hands after handling","body": "Reptiles can carry Salmonella. Never let them near food preparation areas."},
+
+  {"id": 26, "species": "Bird",   "category": "Feeding", "title": "Not just seeds",        "body": "A seed-only diet causes fatty liver disease. Base: pellets 60–70%, fresh vegetables 20–30%, fruit 10%, seeds as treats."},
+  {"id": 27, "species": "Bird",   "category": "Feeding", "title": "Safe vegetables",       "body": "Carrot, broccoli, spinach, bell pepper, zucchini. Avoid avocado, chocolate, caffeine, salty snacks."},
+  {"id": 28, "species": "Bird",   "category": "Safety",  "title": "Teflon fumes are deadly","body": "Overheated non-stick pans release fumes that kill birds within minutes. Avoid aerosols and scented candles near the cage."},
+  {"id": 29, "species": "Bird",   "category": "Habitat", "title": "Sleep 10–12 hours",     "body": "Cover the cage or move it to a dark room at night. Chronic sleep deprivation causes hormonal problems."},
+  {"id": 30, "species": "Bird",   "category": "Health",  "title": "Watch the droppings",   "body": "Change in color or consistency is often the first sign of illness. Birds hide symptoms until it's serious."},
+
+  {"id": 31, "species": "Fish",   "category": "Habitat", "title": "Cycle the tank first",  "body": "A new tank needs 4–6 weeks to build beneficial bacteria. Adding fish immediately causes ammonia spikes that kill them."},
+  {"id": 32, "species": "Fish",   "category": "Habitat", "title": "Volume matters",        "body": "Goldfish need 40+ liters each, a betta needs 10+ liters. Bowls are not suitable for any fish."},
+  {"id": 33, "species": "Fish",   "category": "Feeding", "title": "Feed in 2–3 minutes",   "body": "Overfeeding is the #1 killer — leftover food rots and spikes ammonia. Feed 1–2 times a day, skip one day per week."},
+  {"id": 34, "species": "Fish",   "category": "Health",  "title": "Water changes weekly",  "body": "Change 20–30% weekly. Test pH, ammonia, nitrite, nitrate. Any ammonia above 0 is dangerous."},
+  {"id": 35, "species": "Fish",   "category": "Health",  "title": "Signs of illness",      "body": "Clamped fins, gasping at the surface, white spots, hiding constantly. Quarantine sick fish immediately."}
+]
