@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_reminders"
+        android:title="Reminders"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_vet"
+        android:title="Vet"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_remind"
+        android:title="Remind me (demo)"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_load_posts"
+        android:title="Pet care tips"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_toggle_theme"
+        android:title="Toggle theme"
+        app:showAsAction="never" />
+
+</menu>
